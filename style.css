@@ -9,8 +9,8 @@ body{
     font-family: 'Poppins', sans-serif;
     background-color: rgb(16, 15, 15);
     scroll-behavior: smooth;
+    overflow-x: hidden;
 }
-
 nav{
     max-width: 1500px;
     display: flex;
